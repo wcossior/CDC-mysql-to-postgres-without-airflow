@@ -1,4 +1,4 @@
-#creamos la base de datos para el modelo multidimensional
+/*creamos la base de datos para el modelo multidimensional*/
 CREATE DATABASE dw_netflix;
 
 
